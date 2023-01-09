@@ -1,3 +1,3 @@
-# lecture-codespaces
+# lec-01 codespace
 
-Codespaces used in lectures go here.
+
